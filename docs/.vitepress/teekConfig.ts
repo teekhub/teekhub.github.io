@@ -2,7 +2,7 @@ import { defineTeekConfig } from "vitepress-theme-teek/config";
 
 export const teekConfig = defineTeekConfig({
   pageStyle: "segment-nav",
-  author: { name: "Teeker", link: "https://github.com/Kele-Bingtang" },
+  author: { name: "Teeker", link: "https://github.com/teekhub" },
   wallpaper: {
     enabled: true,
   },
@@ -18,7 +18,7 @@ export const teekConfig = defineTeekConfig({
     descStyle: "types",
   },
   blogger: {
-    avatar: "https://testingcf.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar2.png",
+    avatar: "https://testingcf.jsdelivr.net/gh/teekhub/static/user/avatar2.png",
     shape: "square",
     name: "天客 - Teeker",
     slogan: "朝圣的使徒，正在走向编程的至高殿堂！",
@@ -40,7 +40,7 @@ export const teekConfig = defineTeekConfig({
       {
         name: "butcher2000",
         desc: "即使再小的帆，也能远航",
-        avatar: "https://cdn.jsdelivr.net/gh/Kele-Bingtang/static/user/20211029181901.png",
+        avatar: "https://cdn.jsdelivr.net/gh/teekhub/static/user/20211029181901.png",
         link: "https://blog.csdn.net/weixin_46827107",
       },
       {
@@ -100,12 +100,12 @@ export const teekConfig = defineTeekConfig({
     {
       icon: "mdi:github",
       name: "GitHub",
-      link: "https://github.com/kele-bingtang",
+      link: "https://github.com/teekhub",
     },
     {
       icon: "simple-icons:gitee",
       name: "Gitee",
-      link: "https://gitee.com/kele-bingtang",
+      link: "https://gitee.com/teekhub",
     },
   ],
   codeBlock: {

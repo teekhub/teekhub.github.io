@@ -79,7 +79,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/Kele-Bingtang/Kele-Bingtang.github.io",
+        link: "https://github.com/teekhub/teekhub.github.io",
       },
     ],
     search: {
@@ -92,7 +92,7 @@ export default defineConfig({
     },
     editLink: {
       text: "在 GitHub 上编辑此页",
-      pattern: "https://github.com/Kele-Bingtang/Kele-Bingtang.github.io/edit/master/docs/:path",
+      pattern: "https://github.com/teekhub/teekhub.github.io/edit/master/docs/:path",
     },
   },
 });

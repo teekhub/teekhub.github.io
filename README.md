@@ -3,7 +3,7 @@
 项目拉取
 
 ```bash
-git clone https://github.com/Kele-Bingtang/Kele-Bingtang.github.io.git
+git clone https://github.com/teekhub/teekhub.github.io.git
 ```
 
 依赖安装

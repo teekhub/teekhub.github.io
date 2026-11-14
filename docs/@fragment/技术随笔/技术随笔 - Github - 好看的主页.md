@@ -4,9 +4,9 @@ date: 2022-01-09 17:35:33
 permalink: /github/index/
 titleTag: 原创
 sidebar: auto
-categories: 
+categories:
   - 技术随笔
-tags: 
+tags:
   - 技术随笔
 ---
 
@@ -22,25 +22,23 @@ tags:
 
 [[TOC]]
 
-
-
 ## 图片
 
 ## 效果
 
 这是我目前 GitHub 的个人首页，多了一些内容，如卡片统计，仓库的语言统计等。
 
-![image-20220109174056830](https://cdn.jsdelivr.net/gh/Kele-Bingtang/static/img/github/20220109174059.png)
+![image-20220109174056830](https://cdn.jsdelivr.net/gh/teekhub/static/img/github/20220109174059.png)
 
-你也可以直接去我的主页查看效果：<https://github.com/Kele-Bingtang>
+你也可以直接去我的主页查看效果：<https://github.com/teekhub>
 
 ## 如何使用
 
-首先你需要创建一个仓库，而仓库名 <mark>必须</mark> 是你的用户名，如我的 GitHub 叫做 `Kele-Bingtang`，则我的仓库名就叫 `Kele-Bingtang`。
+首先你需要创建一个仓库，而仓库名 <mark>必须</mark> 是你的用户名，如我的 GitHub 叫做 `teekhub`，则我的仓库名就叫 `teekhub`。
 
 创建仓库的时候，记得公开仓库和创建 README 文件，如图：
 
-![image-20220109174430315](https://cdn.jsdelivr.net/gh/Kele-Bingtang/static/img/github/20220109174431.png)
+![image-20220109174430315](https://cdn.jsdelivr.net/gh/teekhub/static/img/github/20220109174431.png)
 
 创建好仓库后，不需要克隆仓库到本地，我们直接在仓库里修改 README 文件即可。
 
@@ -49,12 +47,12 @@ tags:
 我的 README 文件内容：
 
 ```md
-<a href="https://github.com/Kele-Bingtang/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true" />
+<a href="https://github.com/teekhub/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=teekhub&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
-<a href="https://github.com/Kele-Bingtang/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kele-Bingtang&layout=compact" />
+<a href="https://github.com/teekhub/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teekhub&layout=compact" />
 </a>
 
 ## Hello World 👋
@@ -69,7 +67,7 @@ tags:
 ## My Website
 
 💻：<https://youngkbt.cn>
-  
+
 ## My Blog Websites
 
 - 1️⃣ Main(fast)：<https://notes.youngkbt.cn/>
@@ -78,10 +76,8 @@ tags:
 - 4️⃣ My Server(slow)：<https://server.notes.youngkbt.cn/>
 ```
 
-其中 `a` 标签和 `img` 标签的 `src` 就是第三方提供的路径，如果你想直接使用我的效果卡片，那么只需要把第 2 行的 `https://github-readme-stats.vercel.app/api?username=Kele-Bingtang&theme=algolia&count_private=true&show_icons=true` 的 `username` 改成你自己的 GitHub 用户名，包括第 6 行的 `username`。其他不变。
+其中 `a` 标签和 `img` 标签的 `src` 就是第三方提供的路径，如果你想直接使用我的效果卡片，那么只需要把第 2 行的 `https://github-readme-stats.vercel.app/api?username=teekhub&theme=algolia&count_private=true&show_icons=true` 的 `username` 改成你自己的 GitHub 用户名，包括第 6 行的 `username`。其他不变。
 
 当然，`a` 标签的 `src` 也改成你想要跳转的地址。
-
-
 
 填好 README 文件后，点击保存，然后去首页刷新，就会看到效果。
